@@ -8,9 +8,13 @@ The goal of this project is to build a locker that employs various features such
 
 This project comprises both computer and electrical engineering skillsets, so to successfully reach our goal, we intend on using different components ranging from  
 
-Potential Features: 
-Facial Recognition 
-Automatic Lock 
-Screen Display ( time, date, etc) 
-Manuel open: Emergency access 
+#### Potential Features: 
+Facial Recognition. 
+
+Automatic Lock. 
+
+Screen Display ( time, date, etc). 
+
+Manuel open: Emergency access. 
+
 Can add more features as progress 
