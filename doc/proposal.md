@@ -8,6 +8,13 @@ The goal of this project is to build a locker that employs various features such
 
 This project comprises both computer and electrical engineering skillsets, so to successfully reach our goal, we intend on using different components such as a boothtooth cam, servo, a servo motor driver, a 4 itch HDMI LED display, and a battery power supply. We intend on modifying a regular locker storage cabinet into a smart device using python and a jetson nano. Our team will work primarily on code, research, and development and hardware design. 
 
+#### Proposed System IO Map
+
+![IMG](iomap.jpg "IOMAP")
+
+#### Proposed System State Machine Map
+
+![IMG](statemachine.jpg "SMMAP")
 
 #### Potential Features: 
 Facial Recognition. 
