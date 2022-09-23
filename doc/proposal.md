@@ -16,6 +16,10 @@ This project comprises both computer and electrical engineering skillsets, so to
 
 ![IMG](statemachine.jpg "SMMAP")
 
+#### Gantt Chart
+
+![IMG](SSG.drawio.png "GANTT")
+
 #### Main Features: 
 Facial Recognition. 
 
@@ -23,13 +27,12 @@ Automatic Lock.
 
 Screen Display ( time, date, etc). 
 
-Manuel open: Emergency access. 
-
 #### Potential Features:
 Text messages when locked/unlocked for security purposes. 
-LED light for locked and unlocked
-App development
-GPS
+LED light for locked and unlocked.  
+Manuel open: Emergency access.  
+App development.  
+GPS.  
 More features as we progress.
 
 #### Credited Online sources
