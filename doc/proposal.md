@@ -33,7 +33,7 @@ GPS
 More features as we progress.
 
 #### Credited Online sources
-<https://www.youtube.com/watch?v=uvU8AXY1170>
-<https://maker.pro/nvidia-jetson/tutorial/how-to-use-gpio-pins-on-jetson-nano-developer-kit>
-<https://arxiv.org/ftp/arxiv/papers/1804/1804.07573.pdf>
+<https://www.youtube.com/watch?v=uvU8AXY1170>.  
+<https://maker.pro/nvidia-jetson/tutorial/how-to-use-gpio-pins-on-jetson-nano-developer-kit>.  
+<https://arxiv.org/ftp/arxiv/papers/1804/1804.07573.pdf>.  
 <https://www.allaboutcircuits.com/technical-articles/the-i2c-bus-hardware-implementation-details/>
