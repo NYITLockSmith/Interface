@@ -16,7 +16,7 @@ This project comprises both computer and electrical engineering skillsets, so to
 
 ![IMG](statemachine.jpg "SMMAP")
 
-#### Potential Features: 
+#### Main Features: 
 Facial Recognition. 
 
 Automatic Lock. 
@@ -25,4 +25,15 @@ Screen Display ( time, date, etc).
 
 Manuel open: Emergency access. 
 
-Can add more features as progress 
+#### Potential Features:
+Text messages when locked/unlocked for security purposes. 
+LED light for locked and unlocked
+App development
+GPS
+More features as we progress.
+
+#### Credited Online sources
+https://www.youtube.com/watch?v=uvU8AXY1170
+https://maker.pro/nvidia-jetson/tutorial/how-to-use-gpio-pins-on-jetson-nano-developer-kit
+https://arxiv.org/ftp/arxiv/papers/1804/1804.07573.pdf
+https://www.allaboutcircuits.com/technical-articles/the-i2c-bus-hardware-implementation-details/
